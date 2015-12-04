@@ -1461,6 +1461,13 @@
 					width: 48px;
 				}
 
+
+				ul.social li a.fa-envelope {
+					background-color: #EB1717;
+				}
+				ul.social li a.fa-file-pdf-o {
+					background-color: #05A305;
+				}
 				ul.social li a.fa-twitter {
 					background-color: #2DAAE4;
 				}
