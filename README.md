@@ -1,13 +1,13 @@
 # Solar Olugebefola
 ### Web Developer
 
-71 Lakeside Drive
-Katonah, NY 10536
-617-921-2277
-s.olugebefola@gmail.com
-[my website](www.solarolugebefola.com)
-[my github](www.github.com/solugebefola), but you're already here!
-[my linkedin](www.linkedin.com/in/solarolugebefola)
+71 Lakeside Drive  
+Katonah, NY 10536  
+617-921-2277  
+s.olugebefola@gmail.com  
+[my website](www.solarolugebefola.com)  
+[my github](www.github.com/solugebefola), but you're already here!  
+[my linkedin](www.linkedin.com/in/solarolugebefola)  
 
 ### PROJECTS
 #### PennyRoyal
