@@ -1,4 +1,4 @@
-﻿Solar Olugebefola
+Solar Olugebefola
 Web Developer
 
 71 Lakeside Drive
@@ -13,9 +13,9 @@ PROJECTS
 www.pennyroyal.money - github.com/solugebefola/PennyRoyal
 A financial transaction tracking site inspired by Mint.com. (Ruby on Rails, React.js)
 * User log in/sign up using BCrypt for password authentication.
-* Stores user profiles with Amazon Web Services API.
-* React Flux design pattern for data flow.
-* Limited calls to server using React front-end routing.
+* Reduces local user profile storage by leveraging Amazon Web Services.
+* React Flux design pattern simplifies data flow.
+* Limits calls to server using React front-end routing.
 
 solugebefola.github.io/Solaroids - github.com/solugebefola/Solaroids (JavaScript, HTML Canvas)
 An exciting spaceship survival game based on the classic Asteroids
