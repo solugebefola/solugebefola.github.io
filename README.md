@@ -16,14 +16,14 @@ A financial transaction tracking site inspired by Mint.com. (Ruby on Rails, Reac
 * User log in/sign up using BCrypt for password authentication.
 * Stores user profiles with Amazon Web Services API.
 * React Flux design pattern for data flow.
-* Limited calls to server using React front-end routing.
+* Limits calls to server using React front-end routing.
 
 #### Solaroids
 [live site](solugebefola.github.io/Solaroids) - [github](github.com/solugebefola/Solaroids) (JavaScript, HTML Canvas)
 An exciting spaceship survival game based on the classic Asteroids
-* Collision detection for solaroids, asteroids, beam weapon and ship.
 * Object classes use prototypal inheritance to share properties and methods.
-* Dynamic size behaviors for solaroids and ship beam weapon.
+* Dynamic size/color behaviors for solaroids and ship beam weapon.
+* Vector-based momentum transfer between ship beam and asteroids.
 
 #### Ruby ♥ Db
 [github](github.com/solugebefola/RubyHeartDb) (Ruby)

@@ -37,7 +37,7 @@ Ruby on Rails / Javascript / Rspec(TDD) / PostgreSQL / AWS / React.js / jQuery /
 
 EDUCATION
 AppAcademy - September 2015 - December 2015
-Immersive web development program with a < 5% acceptance rate. 80+ hours per week of direct coding experience.
+Immersive web development program with a < 5% acceptance rate. 80+ hours per week of direct coding, pair-programming experience.
 
 Massachusetts Institute of Technology - September 1999 - June  2007
 Ph.D in Materials Science and Engineering.  Focus on optical properties of novel thin film polymers.
