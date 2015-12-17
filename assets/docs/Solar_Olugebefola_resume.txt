@@ -10,22 +10,25 @@ www.github.com/solugebefola
 https://www.linkedin.com/in/solarolugebefola
 
 PROJECTS
+PennyRoyal
 www.pennyroyal.money - github.com/solugebefola/PennyRoyal
 A financial transaction tracking site inspired by Mint.com. (Ruby on Rails, React.js)
 * User log in/sign up using BCrypt for password authentication.
 * Reduces local user profile storage by leveraging Amazon Web Services.
-* React Flux design pattern simplifies data flow.
+* React Flux design pattern simplifies data flow and reduces db conflicts.
 * Limits calls to server using React front-end routing.
 
+Solaroids
 solugebefola.github.io/Solaroids - github.com/solugebefola/Solaroids (JavaScript, HTML Canvas)
 An exciting spaceship survival game based on the classic Asteroids
-* Collision detection for solaroids, asteroids, beam weapon and ship.
 * Object classes use prototypal inheritance to share properties and methods.
-* Dynamic size behaviors for solaroids and ship beam weapon.
+* Dynamic size/color behaviors for solaroids and ship beam weapon.
+* Vector-based momentum transfer between ship beam and asteroids.
 
+Ruby♥︎Db
 github.com/solugebefola/RubyHeartDb (Ruby)
 An ORM for Ruby with similarities to Rails' ActiveRecord.
-* Create class instances from database records.
+* Create class instances directly from database records.
 * Search methods translate to SQL queries.
 * Metaprogramming with associations like has_many, belongs_to.
 
